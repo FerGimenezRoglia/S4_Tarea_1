@@ -7,7 +7,7 @@ public class HelloWorldController {
 
     @GetMapping("/HelloWorld")
     public String hello(@RequestParam(value = "name", defaultValue = "UNKNOWN") String name) {
-        return String.format("Hola %s!. Estás ejecutando un proyecto Maven", name);
+        return String.format("Hola %s!. Estás ejecutando un proyecto Gradle", name);
 
     }
 
@@ -16,7 +16,7 @@ public class HelloWorldController {
         if (name == null) {
             name = "UNKNOWN";
         }
-        return String.format("Hola, %s!. Estás ejecutando un proyecto Maven", name);
+        return String.format("Hola, %s!. Estás ejecutando un proyecto Gradle", name);
     }
 
 }
