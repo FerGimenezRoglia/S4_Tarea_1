@@ -6,12 +6,13 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/HelloWorld2")
 public class HelloWorld2Controller {
 
-    @GetMapping({"/","/{name}"})
-    public String hello(@PathVariable(required = false) String name) {
-        if (name == null){
-            name = "UNKNOWN";
-        }
-        return String.format("Hola %s!. Estás ejecutando un proyecto Maven", name);
+    @GetMapping
+    public String helloDefault() {
+        return "Hola UNKNOWN!. Estás ejecutando un proyecto Maven";
     }
 
+    @GetMapping("/{name}")
+    public String hello(@PathVariable String name) {
+        return String.format("Hola %s!. Estás ejecutando un proyecto Maven", name);
+    }
 }
