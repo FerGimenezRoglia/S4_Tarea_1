@@ -31,6 +31,7 @@ Para ejecutar los proyectos, necesitas tener instalados:
 - Java Development Kit (JDK 17 o superior)
 - Maven (`mvn -version`) o Gradle (`gradle -version`)
 - IntelliJ IDEA, Eclipse o cualquier otro IDE compatible con Spring Boot
+- Postman para pruebas de API
 
 ---
 
@@ -94,15 +95,28 @@ S4_Tarea_1/
 
 Para probar los endpoints, puedes usar Postman o un navegador:
 
+### **Configurar Entorno en Postman**
+1. Crea dos entornos en Postman:
+   - **Proyecto Maven** con las variables:
+     - `server`: `http://localhost`
+     - `port`: `9000`
+   - **Proyecto Gradle** con las variables:
+     - `server`: `http://localhost`
+     - `port`: `9001`
+
+2. Realiza las pruebas usando los entornos creados.
+
 ### **Pruebas en Proyecto Maven** (Puerto 9000)
-- `GET http://localhost:9000/HelloWorld`
-- `GET http://localhost:9000/HelloWorld?name=TuNombre`
-- `GET http://localhost:9000/HelloWorld2/TuNombre`
+- `GET {{server}}:{{port}}/HelloWorld`
+- `GET {{server}}:{{port}}/HelloWorld?name=TuNombre`
+- `GET {{server}}:{{port}}/HelloWorld2/TuNombre`
 
 ### **Pruebas en Proyecto Gradle** (Puerto 9001)
-- `GET http://localhost:9001/HelloWorld`
-- `GET http://localhost:9001/HelloWorld?name=TuNombre`
-- `GET http://localhost:9001/HelloWorld2/TuNombre`
+- `GET {{server}}:{{port}}/HelloWorld`
+- `GET {{server}}:{{port}}/HelloWorld?name=TuNombre`
+- `GET {{server}}:{{port}}/HelloWorld2/TuNombre`
+
+3. **Exporta los entornos en formato JSON** y súbelos junto con las capturas de pantalla de las pruebas realizadas.
 
 ---
 
@@ -111,6 +125,7 @@ Para más información sobre Spring Boot y cómo construir APIs REST, consulta:
 - [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - [Maven Documentation](https://maven.apache.org/guides/)
 - [Gradle Documentation](https://docs.gradle.org/current/userguide/userguide.html)
+- [Postman Documentation](https://learning.postman.com/docs/getting-started/introduction/)
 
 ---
 
