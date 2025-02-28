@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98345a43-af57-48a7-bc3b-2e27621f2069" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../EscapeRoomVirtual" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/Prueba_Nivel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/src/practicing_fer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/src/practicing_fer/module/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/src/practicing_fer/module/Practice_Collections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/src/practicing_fer/module/Practice_Fer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/src/practicing_fer/module/Practice_Lambdas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/src/program_example/ProyectoGatitos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fer_Practicing_Project/src/program_example/exampleCats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PresentationDebug/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PresentationDebug/src/DebugExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PresentationDebug/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/menu/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/model/exception/InvalidIllustrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/model/illustration/AbstractIllustration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/model/illustration/ArtIllustration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/model/illustration/IllustrationDescriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/model/illustration/IllustrationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/model/illustration/Landscape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/main/java/org/example/model/illustration/Portrait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PruebaDeNivel/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/excepciones/InvalidIllustrationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/menu/StartProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/menu/menuProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/model/Ilustracion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/model/IlustracionAbstracta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/model/IlustracionPaisaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Prueba_Nivel/src/model/IlustracionRetrato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../S2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../S3/EscapeRoomVirtual" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../S3/Tarea_S3_01_Patrones1 " beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../S3/Tarea_S3_02_Patrones2/src/main/java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/src/Postman/Ejecución_entorno_Maven.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/src/Postman/ProyectoMaven.postman_environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/src/main/java/cat/itacademy/s04/t01/n01/S04T01N01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/src/main/java/cat/itacademy/s04/t01/n01/controller/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nivel1/S04T01N01/src/test/java/cat/itacademy/s04/t01/n01/S04T01N01ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Postman/Ejecución_entorno_Gradle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Postman/ProyectoGradle.postman_environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cat/itacademy/s04/t01/n02/S04T01N02Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cat/itacademy/s04/t01/n02/controller/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cat/itacademy/s04/t01/n02/S04T01N02ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.01. Herencia y Polimorfismo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.02. Exceptiones" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.03. Java Collections" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.04. Testing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.05. Java Utils" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.06. Genericos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.07. Anotaciones" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea S1.08. Lambdas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Tarea_S2.03.Estructura_de_datos_MongoDB/src/main/java/org/example/model/DataBaseManager.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tdiaivWdBwr4Kwj1ZByqaGCOCn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.S04T01N02 [:cat.itacademy.s04.t01.n02.S04T01N02Application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Fer_Programando/IdeaProjects/S4/Tarea1/nivel2/S04T01N02&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98345a43-af57-48a7-bc3b-2e27621f2069" name="Changes" comment="" />
+      <created>1740688417871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740688417871</updated>
+    </task>
+    <servers />
+  </component>
+</project>
